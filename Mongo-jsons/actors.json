@@ -1,0 +1,405 @@
+[{
+  "_id": {
+    "$oid": "63dc135404e3d49d2f8aa8f1"
+  },
+  "name": "Vuk Kostić",
+  "plays": [
+    {
+      "$oid": "63dc14ad04e3d49d2f8aa90b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc137304e3d49d2f8aa8f3"
+  },
+  "name": "Ljiljana Blagojević",
+  "plays": [
+    {
+      "$oid": "63dc14ad04e3d49d2f8aa90b"
+    },
+    {
+      "$oid": "63dc402dfc6988ca9692843b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc137a04e3d49d2f8aa8f5"
+  },
+  "name": "Tanasije Uzunović",
+  "plays": [
+    {
+      "$oid": "63dc14ad04e3d49d2f8aa90b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc138104e3d49d2f8aa8f7"
+  },
+  "name": "Rada Đuričin",
+  "plays": [
+    {
+      "$oid": "63dc14ad04e3d49d2f8aa90b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc138804e3d49d2f8aa8f9"
+  },
+  "name": "Ljubomir Bandović",
+  "plays": [
+    {
+      "$oid": "63dc14ad04e3d49d2f8aa90b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc138e04e3d49d2f8aa8fb"
+  },
+  "name": "Branislav Tomašević",
+  "plays": [
+    {
+      "$oid": "63dc14ad04e3d49d2f8aa90b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc18f2fc6988ca9692827b"
+  },
+  "name": "Anita Mančić",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc18f7fc6988ca9692827d"
+  },
+  "name": "Nenad Jezdić",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    },
+    {
+      "$oid": "63dc38f1fc6988ca9692837c"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc18fefc6988ca9692827f"
+  },
+  "name": "Marko Janketić",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc190afc6988ca96928281"
+  },
+  "name": "Nebojša Dugalić",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc1913fc6988ca96928283"
+  },
+  "name": "Boris Isaković",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc1919fc6988ca96928285"
+  },
+  "name": "Miodrag Dragičević",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc1921fc6988ca96928287"
+  },
+  "name": "Tamara Dragičević",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc1927fc6988ca96928289"
+  },
+  "name": "Miloš Samolov",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc192efc6988ca9692828b"
+  },
+  "name": "Sanja Marković",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc1941fc6988ca9692828d"
+  },
+  "name": "Jovana Belović",
+  "plays": [
+    {
+      "$oid": "63dc1acafc6988ca9692829a"
+    },
+    {
+      "$oid": "63dc1ae8fc6988ca969282b9"
+    },
+    {
+      "$oid": "63dc1b0ffc6988ca969282db"
+    },
+    {
+      "$oid": "63dc1b6cfc6988ca96928304"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3b44fc6988ca969283e5"
+  },
+  "name": "Andrija Kuzmanović",
+  "plays": [
+    {
+      "$oid": "63dc3c51fc6988ca969283f7"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3b4cfc6988ca969283e7"
+  },
+  "name": "Isidora Simijonović",
+  "plays": [
+    {
+      "$oid": "63dc3c51fc6988ca969283f7"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3b54fc6988ca969283e9"
+  },
+  "name": "Iva Ilinčić",
+  "plays": [
+    {
+      "$oid": "63dc3c51fc6988ca969283f7"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3b5bfc6988ca969283eb"
+  },
+  "name": "Jovan Jovanović",
+  "plays": [
+    {
+      "$oid": "63dc3c51fc6988ca969283f7"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3b60fc6988ca969283ed"
+  },
+  "name": "Branko Jovanović",
+  "plays": [
+    {
+      "$oid": "63dc3c51fc6988ca969283f7"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3b67fc6988ca969283ef"
+  },
+  "name": "Amar Ćorović",
+  "plays": [
+    {
+      "$oid": "63dc3c51fc6988ca969283f7"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3f46fc6988ca96928423"
+  },
+  "name": "Kalina Kovačević",
+  "plays": [
+    {
+      "$oid": "63dc402dfc6988ca9692843b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3f4cfc6988ca96928425"
+  },
+  "name": "Aleksandar Srećković",
+  "plays": [
+    {
+      "$oid": "63dc402dfc6988ca9692843b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3f55fc6988ca96928427"
+  },
+  "name": "Petar Strugar",
+  "plays": [
+    {
+      "$oid": "63dc402dfc6988ca9692843b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3f63fc6988ca9692842b"
+  },
+  "name": "Sonja Kolačarić",
+  "plays": [
+    {
+      "$oid": "63dc402dfc6988ca9692843b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3f6afc6988ca9692842d"
+  },
+  "name": "Hadži Nenad Maričić",
+  "plays": [
+    {
+      "$oid": "63dc402dfc6988ca9692843b"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dc3f71fc6988ca9692842f"
+  },
+  "name": "Miodrag Krivokapić",
+  "plays": [
+    {
+      "$oid": "63dc402dfc6988ca9692843b"
+    }
+  ],
+  "__v": 0
+}]

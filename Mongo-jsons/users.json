@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63d44b115d12110274af2938"
+  },
+  "email": "pera@gmail.com",
+  "name": "pera",
+  "admin": true,
+  "salt": "66266f4331718c28cc78a8b6b513576b",
+  "hash": "5174c27897289cc08a91a3ed50af4c23680e926cc4fdeebc9337250f2661d38411f65e04c4656a30191cf3b443d343aa1779c1bf91007d8fba000d919b3f913f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d6c80f9d6e2f5ac41ca4dc"
+  },
+  "email": "mika@gmail.com",
+  "name": "mika",
+  "admin": false,
+  "salt": "e71eb6cb9aa1351b190a7e263ae0f0d4",
+  "hash": "450352d10f7cce8a7bddb3e141a7b13f97da7976579cd555384a7e29e1ffc65811458264fcc8d19cedb19bc9ce1f345f5efb42b5799a04422f3bbad36a38bb3e",
+  "__v": 0
+}]
